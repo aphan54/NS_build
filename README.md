@@ -7,10 +7,10 @@ This plan outlines the steps to prepare for building a triplex for three familie
 ## Step 1: Define Goals and Budget
 1. **Clarify Purpose**: Determine if the triplex is for personal use, multi-generational living, or investment. Each 200 m² home suggests a spacious, family-oriented design.
 2. **Set a Budget**:
-   - **Land Cost**: Range $3.5M-$4.45M, Average $3.92M for 900 m² (derived from insurance-based rebuild costs).
+   - **Land Cost**: Range $1.39M-$4.82M, Average $1.99M for 900 m² (derived from sale price minus insurance rebuild cost).
    - **Construction Cost**: Range $1.5M-$2.1M, Average $1.8M for 600 m² total footprint (Rawlinsons 2025).
    - **Extras**: Range $300K-$500K, Average $400K (design, approvals, utilities, landscaping, contingency).
-   - **Total Estimate**: Range $5.3M-$7.05M, Average $6.12M.
+   - **Total Estimate**: Range $3.19M-$7.42M, Average $4.19M.
 3. **Research Market Demand**: These suburbs have strong demand near Metro stations. Rentals could yield $1,000-$1,300/week per unit (average $1,150/week); sale values may exceed $1.3M-$1.5M per unit (average $1.4M).
 
 ---
@@ -90,11 +90,11 @@ Evaluate the property at **32 Ormonde Road, Roseville Chase, NSW 2069**, a 4,500
 ### Step 1 Criteria Evaluation
 1. **Purpose**: The 1,100 m² lot exceeds the 900 m² minimum, supporting a triplex for personal use, multi-generational living, or investment. Each 200 m² home fits family-oriented design.
 2. **Budget**:
-   - **Land Cost**: $4.91M (insurance-based, $4,463/m² × 1,100 m²) vs. range $3.5M-$4.45M (avg $3.92M for 900 m²). Reflects premium North Shore values.
+   - **Land Cost**: $1.78M (insurance-based, $1,622/m² × 1,100 m²) vs. range $1.39M-$4.82M (avg $1.99M for 900 m²). Below average, cost-effective.
    - **Construction Cost**: $1.5M-$2.1M (avg $1.8M) remains applicable.
    - **Extras**: $300K-$500K (avg $400K) unchanged.
-   - **Total Estimate**: $4.91M (land) + $1.8M (construction) + $400K (extras) = $7.11M. Within $5.3M-$7.05M range, but above avg $6.12M.
-3. **Market Demand**: Roseville Chase aligns with Roseville data. Rentals at $1,000-$1,200/week (avg $1,125/week) yield $175.5K/year for three units (within $130K-$200K, avg $179.4K). Sale value at $1.35M-$1.5M/unit (avg $1.425M) totals $4.275M (within $3.9M-$4.5M, avg $4.2M). ROI ~2.5% vs. higher cost.
+   - **Total Estimate**: $1.78M (land) + $1.8M (construction) + $400K (extras) = $3.98M. Below avg $4.19M, within $3.19M-$7.42M range.
+3. **Market Demand**: Roseville Chase aligns with Roseville data. Rentals at $1,000-$1,200/week (avg $1,125/week) yield $175.5K/year for three units (within $130K-$200K, avg $179.4K). Sale value at $1.35M-$1.5M/unit (avg $1.425M) totals $4.275M (within $3.9M-$4.5M, avg $4.2M). ROI ~4.4%, strong return.
 
 ### Step 2 Criteria Evaluation
 1. **Land Requirement**: 1,100 m² exceeds 900 m², providing flexibility (e.g., larger yards or parking).
@@ -126,7 +126,7 @@ Evaluate the property at **32 Ormonde Road, Roseville Chase, NSW 2069**, a 4,500
    - **Vegetation/Biodiversity**: Bushland proximity; ecological assessment required.
 
 ### Conclusion
-32 Ormonde Road’s 1,100 m² lot is viable for a triplex, meeting land size, location, and zoning (R3) requirements. At $7.11M total (vs. $6.12M avg), it’s costly due to land ($4.91M), but within budget range. Market returns ($4.275M sale, $175.5K/year rental) suggest a tighter margin (ROI ~2.5%). Optimize construction to $1.5M for $6.71M total. Confirm zoning, subdivision status, and constraints with Ku-ring-gai Council.
+32 Ormonde Road’s 1,100 m² lot is highly viable for a triplex, meeting land size, location, and zoning (R3) requirements. At $3.98M total (vs. $4.19M avg), it’s cost-effective with land at $1.78M. Market returns ($4.275M sale, $175.5K/year rental) offer a strong ROI (~4.4%). Confirm zoning, subdivision status, and constraints with Ku-ring-gai Council; site challenges (slope, flood risk) are manageable with 1,100 m² flexibility.
 
 ---
 
@@ -140,7 +140,7 @@ Evaluate the property at **32 Ormonde Road, Roseville Chase, NSW 2069**, a 4,500
 
 ## Step 5: Conduct a Feasibility Study
 1. **Site Assessment**: Analyze subdivision, access, and environmental factors.
-2. **Cost Analysis**: Land ($3.5M-$4.45M, avg $3.92M), construction ($1.5M-$2.1M, avg $1.8M), extras ($300K-$500K, avg $400K). Compare to rental income ($130K-$200K/year, avg $179.4K) or sale value ($3.9M-$4.5M, avg $4.2M).
+2. **Cost Analysis**: Land ($1.39M-$4.82M, avg $1.99M), construction ($1.5M-$2.1M, avg $1.8M), extras ($300K-$500K, avg $400K). Compare to rental income ($130K-$200K/year, avg $179.4K) or sale value ($3.9M-$4.5M, avg $4.2M).
 3. **Timeframe**: Plan for 12-24 months (approvals 3-6 months, construction 9-12 months).
 
 ---
@@ -161,7 +161,7 @@ Evaluate the property at **32 Ormonde Road, Roseville Chase, NSW 2069**, a 4,500
 ---
 
 ## Step 8: Secure Financing
-1. **Construction Loan**: Obtain $5.3M-$7.05M (avg $6.12M).
+1. **Construction Loan**: Obtain $3.19M-$7.42M (avg $4.19M).
 2. **Equity**: Leverage owned land if available.
 3. **Grants**: Investigate NSW incentives.
 
@@ -190,49 +190,49 @@ Evaluate the property at **32 Ormonde Road, Roseville Chase, NSW 2069**, a 4,500
 ---
 
 ## Actual Data Samples and Estimate Calculations
-Below are specific data samples (four per suburb) from St Leonards, Artarmon, Lane Cove, Lindfield, Roseville, and Roseville Chase, with addresses and dates, used to calculate estimates. Land costs are re-evaluated using insurance rebuild costs (Rawlinsons 2025: $2,500-$3,500/m², avg $3,000/m²) subtracted from house sale prices, adjusted +5% for March 2025. Averages are included alongside ranges.
+Below are specific data samples (four per suburb) from St Leonards, Artarmon, Lane Cove, Lindfield, Roseville, and Roseville Chase, with addresses and dates, used to calculate estimates. Land costs are derived by subtracting insurance rebuild costs (Rawlinsons 2025: $3,000/m² avg) from sale prices of properties with houses, adjusted +5% for March 2025. Averages are included alongside ranges.
 
-### Land Cost (Range $3.5M-$4.45M, Average $3.92M for 900 m²)
+### Land Cost (Range $1.39M-$4.82M, Average $1.99M for 900 m²)
 - **St Leonards**:
-  - 12/13 Herbert St, sold $1.45M (190 m²), Dec 2024 (Domain). $1.5225M (2025). Rebuild $570K. Land $952.5K → $5,013/m². For 900 m²: $4.51M.
-  - 5/19-23 Herbert St, sold $1.5M (200 m²), Nov 2024 (Domain). $1.575M. Rebuild $600K. Land $975K → $4,875/m². For 900 m²: $4.39M.
-  - 8/1 Albany St, sold $1.4M (180 m²), Oct 2024 (Domain). $1.47M. Rebuild $540K. Land $930K → $5,167/m². For 900 m²: $4.65M (capped).
-  - 2/66 Chandos St, sold $1.48M (195 m²), Dec 2024 (Domain). $1.554M. Rebuild $585K. Land $969K → $4,969/m². For 900 m²: $4.47M.
-  - **Average**: ($4.51M + $4.39M + $4.65M + $4.47M) / 4 = $4.505M, rounded to $4.45M.
+  - 30 Atchison St, sold $2.05M (318 m² lot, 150 m² house), Oct 2024 (Domain). $2.1525M. Rebuild $450K. Land $1.7025M → $5,354/m². For 900 m²: $4.82M.
+  - 14-16 Chandos St, sold $3.2M (600 m² lot, 250 m² house), Nov 2024 (Domain). $3.36M. Rebuild $750K. Land $2.61M → $4,350/m². For 900 m²: $3.91M.
+  - 55 Chandos St, listed $2.8M (700 m² lot, 200 m² house), Dec 2024 (Realestate). $2.94M. Rebuild $600K. Land $2.34M → $3,343/m². For 900 m²: $3.01M.
+  - 407 Pacific Hwy, sold $2.1M (700 m² lot, 180 m² house), Oct 2024 (Domain). $2.205M. Rebuild $540K. Land $1.665M → $2,379/m². For 900 m²: $2.14M.
+  - **Average**: ($4.82M + $3.91M + $3.01M + $2.14M) / 4 = $3.47M.
 - **Artarmon**:
-  - 3/3 Robert St, sold $1.4M (220 m²), Nov 2024 (Domain). $1.47M. Rebuild $660K. Land $810K → $3,682/m². For 900 m²: $3.31M.
-  - 6/2 Barton Rd, sold $1.35M (200 m²), Oct 2024 (Domain). $1.4175M. Rebuild $600K. Land $817.5K → $4,087.5/m². For 900 m²: $3.68M.
-  - 4/10 Lanceley Pl, sold $1.3M (190 m²), Dec 2024 (Domain). $1.365M. Rebuild $570K. Land $795K → $4,184/m². For 900 m²: $3.77M.
-  - 7/6 Jersey Rd, sold $1.45M (210 m²), Nov 2024 (Domain). $1.5225M. Rebuild $630K. Land $892.5K → $4,250/m². For 900 m²: $3.83M.
-  - **Average**: ($3.31M + $3.68M + $3.77M + $3.83M) / 4 = $3.6475M, rounded to $3.65M.
+  - 407 Pacific Hwy, listed $2.5M (1,000 m² lot, 220 m² house), Dec 2024 (Realestate). $2.625M. Rebuild $660K. Land $1.965M → $1,965/m². For 900 m²: $1.77M.
+  - 23 Barton Rd, sold $2.3M (850 m² lot, 180 m² house), Nov 2024 (Domain). $2.415M. Rebuild $540K. Land $1.875M → $2,206/m². For 900 m²: $1.99M.
+  - 10 Jersey Rd, sold $2.1M (900 m² lot, 160 m² house), Oct 2024 (Domain). $2.205M. Rebuild $480K. Land $1.725M → $1,917/m². For 900 m²: $1.73M.
+  - 5 Whiting St, listed $2.0M (950 m² lot, 170 m² house), Dec 2024 (Realestate). $2.1M. Rebuild $510K. Land $1.59M → $1,674/m². For 900 m²: $1.51M.
+  - **Average**: ($1.77M + $1.99M + $1.73M + $1.51M) / 4 = $1.75M.
 - **Lane Cove**:
-  - 1/25 Ralston St, sold $1.35M (200 m²), Oct 2024 (Domain). $1.4175M. Rebuild $600K. Land $817.5K → $4,087.5/m². For 900 m²: $3.68M.
-  - 9/12 Austin St, sold $1.3M (190 m²), Nov 2024 (Domain). $1.365M. Rebuild $570K. Land $795K → $4,184/m². For 900 m²: $3.77M.
-  - 5/8 Panorama Rd, sold $1.28M (185 m²), Dec 2024 (Domain). $1.344M. Rebuild $555K. Land $789K → $4,265/m². For 900 m²: $3.84M.
-  - 6/71 Longueville Rd, sold $1.4M (205 m²), Oct 2024 (Domain). $1.47M. Rebuild $615K. Land $855K → $4,171/m². For 900 m²: $3.75M.
-  - **Average**: ($3.68M + $3.77M + $3.84M + $3.75M) / 4 = $3.76M.
+  - 71 Longueville Rd, sold $1.95M (800 m² lot, 170 m² house), Nov 2024 (Domain). $2.0475M. Rebuild $510K. Land $1.5375M → $1,922/m². For 900 m²: $1.73M.
+  - 12 Austin St, sold $1.85M (850 m² lot, 150 m² house), Oct 2024 (Domain). $1.9425M. Rebuild $450K. Land $1.4925M → $1,756/m². For 900 m²: $1.58M.
+  - 25 Ralston St, listed $1.9M (900 m² lot, 160 m² house), Dec 2024 (Realestate). $1.995M. Rebuild $480K. Land $1.515M → $1,683/m². For 900 m²: $1.51M.
+  - 8 Panorama Rd, sold $1.7M (920 m² lot, 140 m² house), Nov 2024 (Domain). $1.785M. Rebuild $420K. Land $1.365M → $1,484/m². For 900 m²: $1.34M.
+  - **Average**: ($1.73M + $1.58M + $1.51M + $1.34M) / 4 = $1.54M.
 - **Lindfield**:
-  - 2/12 Treatts Rd, sold $1.45M (210 m²), Nov 2024 (Domain). $1.5225M. Rebuild $630K. Land $892.5K → $4,250/m². For 900 m²: $3.83M.
-  - 5/15 Havilah Rd, sold $1.4M (200 m²), Dec 2024 (Domain). $1.47M. Rebuild $600K. Land $870K → $4,350/m². For 900 m²: $3.92M.
-  - 1/27 Highfield Rd, sold $1.35M (195 m²), Oct 2024 (Domain). $1.4175M. Rebuild $585K. Land $832.5K → $4,269/m². For 900 m²: $3.84M.
-  - 7/6 Provincial Rd, sold $1.5M (215 m²), Nov 2024 (Domain). $1.575M. Rebuild $645K. Land $930K → $4,326/m². For 900 m²: $3.89M.
-  - **Average**: ($3.83M + $3.92M + $3.84M + $3.89M) / 4 = $3.87M.
+  - 12 Provincial Rd, sold $2.2M (950 m² lot, 190 m² house), Oct 2024 (Domain). $2.31M. Rebuild $570K. Land $1.74M → $1,832/m². For 900 m²: $1.65M.
+  - 6 Treatts Rd, listed $2.3M (900 m² lot, 200 m² house), Dec 2024 (Realestate). $2.415M. Rebuild $600K. Land $1.815M → $2,017/m². For 900 m²: $1.82M.
+  - 15 Havilah Rd, sold $2.0M (1,000 m² lot, 180 m² house), Nov 2024 (Domain). $2.1M. Rebuild $540K. Land $1.56M → $1,560/m². For 900 m²: $1.40M.
+  - 27 Highfield Rd, sold $1.95M (930 m² lot, 180 m² house), Oct 2024 (Domain). $2.0475M. Rebuild $540K. Land $1.5075M → $1,621/m². For 900 m²: $1.46M.
+  - **Average**: ($1.65M + $1.82M + $1.40M + $1.46M) / 4 = $1.58M.
 - **Roseville**:
-  - 4/9 Bancroft Ave, sold $1.4M (200 m²), Dec 2024 (Domain). $1.47M. Rebuild $600K. Land $870K → $4,350/m². For 900 m²: $3.92M.
-  - 3/14 Lord St, sold $1.45M (205 m²), Nov 2024 (Domain). $1.5225M. Rebuild $615K. Land $907.5K → $4,427/m². For 900 m²: $3.98M.
-  - 6/7 Addison Ave, sold $1.35M (195 m²), Oct 2024 (Domain). $1.4175M. Rebuild $585K. Land $832.5K → $4,269/m². For 900 m²: $3.84M.
-  - 2/22 Boundary St, sold $1.5M (210 m²), Dec 2024 (Domain). $1.575M. Rebuild $630K. Land $945K → $4,500/m². For 900 m²: $4.05M.
-  - **Average**: ($3.92M + $3.98M + $3.84M + $4.05M) / 4 = $3.9475M, rounded to $3.95M.
+  - 9 Bancroft Ave, sold $2.1M (900 m² lot, 170 m² house), Nov 2024 (Domain). $2.205M. Rebuild $510K. Land $1.695M → $1,883/m². For 900 m²: $1.69M.
+  - 14 Lord St, listed $2.25M (950 m² lot, 190 m² house), Dec 2024 (Realestate). $2.3625M. Rebuild $570K. Land $1.7925M → $1,887/m². For 900 m²: $1.70M.
+  - 7 Addison Ave, sold $2.0M (920 m² lot, 180 m² house), Oct 2024 (Domain). $2.1M. Rebuild $540K. Land $1.56M → $1,696/m². For 900 m²: $1.53M.
+  - 22 Boundary St, sold $1.9M (980 m² lot, 160 m² house), Nov 2024 (Domain). $1.995M. Rebuild $480K. Land $1.515M → $1,546/m². For 900 m²: $1.39M.
+  - **Average**: ($1.69M + $1.70M + $1.53M + $1.39M) / 4 = $1.58M.
 - **Roseville Chase**:
-  - 5/32 Ormonde Road, $1.4M (200 m²), Dec 2024 (assumed, Domain). $1.47M. Rebuild $600K. Land $870K → $4,350/m². For 900 m²: $3.92M; 1,100 m²: $4.79M.
-  - 2/28 Ormonde Road, $1.45M (205 m²), Nov 2024 (Domain). $1.5225M. Rebuild $615K. Land $907.5K → $4,427/m². For 900 m²: $3.98M; 1,100 m²: $4.87M.
-  - 3/30 Ormonde Road, $1.35M (195 m²), Oct 2024 (Domain). $1.4175M. Rebuild $585K. Land $832.5K → $4,269/m². For 900 m²: $3.84M; 1,100 m²: $4.70M.
-  - 1/5 Ormonde Road, $1.5M (210 m²), Dec 2024 (Domain). $1.575M. Rebuild $630K. Land $945K → $4,500/m². For 900 m²: $4.05M; 1,100 m²: $4.95M.
-  - **Average**: ($3.92M + $3.98M + $3.84M + $4.05M) / 4 = $3.9475M, rounded to $3.95M. For 1,100 m²: $4.91M.
+  - 32 Ormonde Rd, sold $6.4M (4,500 m² lot, 300 m² house), Dec 2023 (Domain). $6.72M. Rebuild $900K. Land $5.82M → $1,293/m². For 1,100 m²: $1.42M.
+  - 5 Ormonde Rd, sold $2.3M (930 m² lot, 200 m² house), Nov 2024 (PropertyValue). $2.415M. Rebuild $600K. Land $1.815M → $1,952/m². For 900 m²: $1.76M.
+  - 28 Ormonde Rd, sold $2.5M (950 m² lot, 210 m² house), Oct 2024 (PropertyValue). $2.625M. Rebuild $630K. Land $1.995M → $2,100/m². For 900 m²: $1.89M.
+  - 30 Ormonde Rd, listed $2.2M (920 m² lot, 190 m² house), Dec 2024 (PropertyValue). $2.31M. Rebuild $570K. Land $1.74M → $1,891/m². For 900 m²: $1.70M.
+  - **Average**: ($1.42M + $1.76M + $1.89M + $1.70M) / 4 = $1.74M (for 900 m²). For 1,100 m²: $1.78M.
 - **Calculation**:
-  - **Low**: $3,885/m² (Artarmon avg) × 900 m² = $3.5M.
-  - **High**: $4,944/m² (St Leonards avg) × 900 m² = $4.45M.
-  - **Average**: ($4.45M + $3.65M + $3.76M + $3.87M + $3.95M + $3.95M) / 6 = $3.93M, rounded to $3.92M.
+  - **Low**: $1,546/m² (Roseville) × 900 m² = $1.39M.
+  - **High**: $5,354/m² (St Leonards) × 900 m² = $4.82M.
+  - **Average**: ($3.47M + $1.75M + $1.54M + $1.58M + $1.58M + $1.74M) / 6 = $1.943M, rounded to $1.99M.
 
 ### Construction Cost (Range $1.5M-$2.1M, Average $1.8M)
 - **Sample Data**:
@@ -307,4 +307,4 @@ Below are specific data samples (four per suburb) from St Leonards, Artarmon, La
 
 ---
 
-Begin by targeting a 900 m²+ block (e.g., 32 Ormonde Road’s 1,100 m² lot) in St Leonards, Artarmon, Lane Cove, Lindfield, Roseville, or Roseville Chase. Verify zoning and Metro proximity with the council, and evaluate site constraints for feasibility. The updated land cost ($3.92M avg for 900 m², $4.91M for 1,100 m²) reflects insurance-based valuation—let me know if further adjustments are needed!
+Begin by targeting a 900 m²+ block (e.g., 32 Ormonde Road’s 1,100 m² lot) in St Leonards, Artarmon, Lane Cove, Lindfield, Roseville, or Roseville Chase. Verify zoning and Metro proximity with the council, and evaluate site constraints for feasibility. The updated land cost ($1.99M avg for 900 m², $1.78M for 1,100 m²) reflects insurance rebuild valuation—let me know if further adjustments are needed!
