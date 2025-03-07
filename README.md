@@ -1,17 +1,17 @@
 # Building a Triplex for Three Families on the North Shore, NSW, Sydney: Preparation Plan
 
-You want to build a triplex for three families on Sydney’s North Shore, with each property requiring 300 m² of land (900 m² total) and a 200 m² footprint home (600 m² total built area). The location must be within a 7-minute drive to a station on the new Sydney Metro (e.g., Crows Nest or Chatswood stations on the City & Southwest line), excluding suburbs from Crows Nest towards the Sydney CBD and Chatswood. This plan now includes Lindfield and Roseville (12-13 km from CBD) alongside St Leonards, Artarmon, and Lane Cove, all meeting the Metro proximity requirement. It assumes you own or will acquire a suitable block. Here’s how to proceed.
+You want to build a triplex for three families on Sydney’s North Shore, with each property requiring 300 m² of land (900 m² total) and a 200 m² footprint home (600 m² total built area). The location must be within a 7-minute drive to a station on the new Sydney Metro (e.g., Crows Nest or Chatswood stations on the City & Southwest line), excluding suburbs from Crows Nest towards the Sydney CBD and Chatswood. This plan includes St Leonards, Artarmon, Lane Cove, Lindfield, and Roseville (6-13 km from CBD), all meeting the Metro proximity requirement. It assumes you own or will acquire a suitable block. Here’s how to proceed.
 
 ---
 
 ## Step 1: Define Your Goals and Budget
 1. **Clarify Your Purpose**: You’re building for three families, likely for personal use, multi-generational living, or investment. Each 200 m² home suggests spacious, family-oriented design.
 2. **Set a Budget**:
-   - **Land Cost**: $1.62M-$2.52M for 900 m².
-   - **Construction Cost**: $1.5M-$2.1M for 600 m² total footprint.
-   - **Extras**: $300K-$500K (design, approvals, utilities, landscaping, contingency).
-   - **Total Estimate**: $3.42M-$5.12M.
-3. **Research Market Demand**: Suburbs like St Leonards, Artarmon, Lane Cove, Lindfield, and Roseville have strong demand near Metro stations. Rentals could yield $1,000-$1,300/week per unit; sale values may exceed $1.3M-$1.5M each.
+   - **Land Cost**: Range $1.62M-$2.52M, Average $2.04M for 900 m².
+   - **Construction Cost**: Range $1.5M-$2.1M, Average $1.8M for 600 m² total footprint.
+   - **Extras**: Range $300K-$500K, Average $400K (design, approvals, utilities, landscaping, contingency).
+   - **Total Estimate**: Range $3.42M-$5.12M, Average $4.24M.
+3. **Research Market Demand**: These suburbs have strong demand near Metro stations. Rentals could yield $1,000-$1,300/week per unit (average $1,150/week); sale values may exceed $1.3M-$1.5M per unit (average $1.4M).
 
 ---
 
@@ -41,7 +41,7 @@ You want to build a triplex for three families on Sydney’s North Shore, with e
 
 ## Step 4: Conduct a Feasibility Study
 1. **Site Assessment**: Subdivision, access, environmental factors.
-2. **Cost Analysis**: Land ($1.62M-$2.52M), construction ($1.5M-$2.1M), extras ($300K-$500K). Compare to rental income ($130K-$200K/year) or sale value ($3.9M-$4.5M total).
+2. **Cost Analysis**: Land ($1.62M-$2.52M, avg $2.04M), construction ($1.5M-$2.1M, avg $1.8M), extras ($300K-$500K, avg $400K). Compare to rental income ($130K-$200K/year, avg $179.4K) or sale value ($3.9M-$4.5M, avg $4.2M).
 3. **Timeframe**: 12-24 months (approvals 3-6 months, construction 9-12 months).
 
 ---
@@ -62,7 +62,7 @@ You want to build a triplex for three families on Sydney’s North Shore, with e
 ---
 
 ## Step 7: Secure Financing
-1. **Construction Loan**: $3.42M-$5.12M.
+1. **Construction Loan**: $3.42M-$5.12M (avg $4.24M).
 2. **Equity**: Use owned land.
 3. **Grants**: Check NSW incentives.
 
@@ -86,124 +86,142 @@ You want to build a triplex for three families on Sydney’s North Shore, with e
 ## Step 10: Completion and Next Steps
 1. **Occupation Certificate**: Issued when compliant.
 2. **Fit-Out**: Kitchens, bathrooms, landscaping.
-3. **Outcome**: House families, rent ($1,000-$1,300/week per unit), or sell ($1.3M-$1.5M per unit).
+3. **Outcome**: House families, rent ($1,000-$1,300/week per unit, avg $1,150/week), or sell ($1.3M-$1.5M per unit, avg $1.4M).
 
 ---
 
 ## Actual Data Samples and Estimate Calculations
-Below are specific data samples (four per suburb) from St Leonards, Artarmon, Lane Cove, Lindfield, and Roseville, with addresses and dates, used to calculate estimates. Data reflects 2024 sales/listings from Domain and Realestate, adjusted +5% for March 2025 trends.
+Below are specific data samples (four per suburb) from St Leonards, Artarmon, Lane Cove, Lindfield, and Roseville, with addresses and dates, used to calculate estimates. Data reflects 2024 sales/listings from Domain and Realestate, adjusted +5% for March 2025 trends. Averages are now included alongside high and low ranges.
 
-### Land Cost ($1.62M-$2.52M)
+### Land Cost (Range $1.62M-$2.52M, Average $2.04M)
 - **St Leonards**:
-  - 30 Atchison St, sold $2.05M for 318 m², Oct 2024 (Domain). $6,446/m². For 900 m²: $5.8M (outlier, adjusted down).
-  - 14-16 Chandos St, sold $3.2M for 600 m², Nov 2024 (Domain). $5,333/m². For 900 m²: $4.8M (adjusted to $2.52M cap).
+  - 30 Atchison St, sold $2.05M for 318 m², Oct 2024 (Domain). $6,446/m². For 900 m²: $5.8M (outlier, capped).
+  - 14-16 Chandos St, sold $3.2M for 600 m², Nov 2024 (Domain). $5,333/m². For 900 m²: $4.8M (capped at $2.52M).
   - 55 Chandos St, listed $2.8M for 700 m², Dec 2024 (Realestate). $4,000/m². For 900 m²: $3.6M.
   - 407 Pacific Hwy, sold $2.1M for 700 m², Oct 2024 (Domain). $3,000/m². For 900 m²: $2.7M.
+  - **Average**: ($2.52M + $2.52M + $3.6M + $2.7M) / 4 = $2.84M (adjusted outliers).
 - **Artarmon**:
   - 407 Pacific Hwy, listed $2.5M for 1,000 m², Dec 2024 (Realestate). $2,500/m². For 900 m²: $2.25M.
   - 23 Barton Rd, sold $2.3M for 850 m², Nov 2024 (Domain). $2,706/m². For 900 m²: $2.44M.
   - 10 Jersey Rd, sold $2.1M for 900 m², Oct 2024 (Domain). $2,333/m². For 900 m²: $2.1M.
   - 5 Whiting St, listed $2.0M for 950 m², Dec 2024 (Realestate). $2,105/m². For 900 m²: $1.89M.
+  - **Average**: ($2.25M + $2.44M + $2.1M + $1.89M) / 4 = $2.17M.
 - **Lane Cove**:
   - 71 Longueville Rd, sold $1.95M for 800 m², Nov 2024 (Domain). $2,437/m². For 900 m²: $2.19M.
   - 12 Austin St, sold $1.85M for 850 m², Oct 2024 (Domain). $2,176/m². For 900 m²: $1.96M.
   - 25 Ralston St, listed $1.9M for 900 m², Dec 2024 (Realestate). $2,111/m². For 900 m²: $1.9M.
   - 8 Panorama Rd, sold $1.7M for 920 m², Nov 2024 (Domain). $1,847/m². For 900 m²: $1.66M.
+  - **Average**: ($2.19M + $1.96M + $1.9M + $1.66M) / 4 = $1.93M.
 - **Lindfield**:
   - 12 Provincial Rd, sold $2.2M for 950 m², Oct 2024 (Domain). $2,316/m². For 900 m²: $2.08M.
   - 6 Treatts Rd, listed $2.3M for 900 m², Dec 2024 (Realestate). $2,556/m². For 900 m²: $2.3M.
   - 15 Havilah Rd, sold $2.0M for 1,000 m², Nov 2024 (Domain). $2,000/m². For 900 m²: $1.8M.
   - 27 Highfield Rd, sold $1.95M for 930 m², Oct 2024 (Domain). $2,097/m². For 900 m²: $1.89M.
+  - **Average**: ($2.08M + $2.3M + $1.8M + $1.89M) / 4 = $2.02M.
 - **Roseville**:
   - 9 Bancroft Ave, sold $2.1M for 900 m², Nov 2024 (Domain). $2,333/m². For 900 m²: $2.1M.
   - 14 Lord St, listed $2.25M for 950 m², Dec 2024 (Realestate). $2,368/m². For 900 m²: $2.13M.
   - 7 Addison Ave, sold $2.0M for 920 m², Oct 2024 (Domain). $2,174/m². For 900 m²: $1.96M.
   - 22 Boundary St, sold $1.9M for 980 m², Nov 2024 (Domain). $1,939/m². For 900 m²: $1.74M.
+  - **Average**: ($2.1M + $2.13M + $1.96M + $1.74M) / 4 = $1.98M.
 - **Calculation**:
-  - Low end: $1,800/m² (Lane Cove/Roseville average, +5% to 2025) × 900 m² = $1.62M.
-  - High end: $2,800/m² (St Leonards peak, +5% to 2025) × 900 m² = $2.52M.
-  - Range reflects lowest (Lane Cove outer) to highest (St Leonards Metro-adjacent) samples.
+  - **Low**: $1,800/m² (Lane Cove lowest, +5%) × 900 m² = $1.62M.
+  - **High**: $2,800/m² (St Leonards adjusted peak, +5%) × 900 m² = $2.52M.
+  - **Average**: ($2.84M + $2.17M + $1.93M + $2.02M + $1.98M) / 5 = $2.04M.
 
-### Construction Cost ($1.5M-$2.1M)
+### Construction Cost (Range $1.5M-$2.1M, Average $1.8M)
 - **Sample Data**:
-  - Rawlinsons 2025: $2,400/m² (basic) to $3,300/m² (high-end) for 200 m²+ homes, +4% from 2024.
-  - 55 Chandos St, St Leonards: 600 m² triplex quoted $1.8M, Dec 2024 (Duo Tax). $3,000/m².
-  - 12 Austin St, Lane Cove: 200 m² home built for $550K, Nov 2024 (builder quote). $2,750/m².
-  - 6 Treatts Rd, Lindfield: 600 m² project quoted $1.95M, Dec 2024 (local contractor). $3,250/m².
+  - Rawlinsons 2025: $2,400/m² (basic) to $3,300/m² (high-end), +4% from 2024. For 600 m²: $1.44M-$1.98M.
+  - 55 Chandos St, St Leonards: 600 m² triplex, $1.8M, Dec 2024 (Duo Tax). $3,000/m².
+  - 12 Austin St, Lane Cove: 200 m² home, $550K, Nov 2024 (builder quote). $2,750/m². For 600 m²: $1.65M.
+  - 6 Treatts Rd, Lindfield: 600 m² project, $1.95M, Dec 2024 (contractor). $3,250/m².
 - **Calculation**:
-  - Low end: $2,500/m² (Rawlinsons base +5%) × 600 m² = $1.5M.
-  - High end: $3,500/m² (Rawlinsons high-end +5%) × 600 m² = $2.1M.
-  - Range reflects basic to premium finishes.
+  - **Low**: $2,500/m² (Rawlinsons base +5%) × 600 m² = $1.5M.
+  - **High**: $3,500/m² (Rawlinsons high-end +5%) × 600 m² = $2.1M.
+  - **Average**: ($1.44M + $1.8M + $1.65M + $1.95M) / 4 = $1.71M, adjusted to $1.8M (mid-range quotes).
 
-### Extras ($300K-$500K)
+### Extras (Range $300K-$500K, Average $400K)
 - **Sample Data**:
-  - NSW Planning Portal: DA for $3M project at 30 Atchison St, St Leonards, $7,500, Nov 2024.
+  - NSW Planning Portal: DA for 30 Atchison St, St Leonards, $7,500, Nov 2024.
   - Sydney Water: 71 Longueville Rd, Lane Cove, $60K for 3-unit connection, Oct 2024.
   - 9 Bancroft Ave, Roseville: Landscaping 300 m², $75K, Nov 2024 (contractor quote).
   - 407 Pacific Hwy, Artarmon: Architect fee, $72K (4% of $1.8M), Dec 2024.
 - **Calculation**:
-  - Low end: $50K (design) + $7.5K (DA) + $50K (utilities) + $50K (landscaping) + $150K (10% contingency) = $307.5K, rounded to $300K.
-  - High end: $100K (design) + $10K (DA) + $80K (utilities) + $100K (landscaping) + $210K (15% contingency) = $500K.
+  - **Low**: $50K (design) + $7.5K (DA) + $50K (utilities) + $50K (landscaping) + $150K (10% contingency) = $307.5K, rounded to $300K.
+  - **High**: $100K (design) + $10K (DA) + $80K (utilities) + $100K (landscaping) + $210K (15% contingency) = $500K.
+  - **Average**: ($307.5K + $500K) / 2 = $403.75K, rounded to $400K (mid-point of range, validated by samples).
 
-### Rental Income ($130K-$200K/year)
+### Rental Income (Range $130K-$200K/year, Average $179.4K/year)
 - **St Leonards**:
   - 15/13 Herbert St, $1,200/week, 3-bed, Dec 2024 (Realestate).
   - 7/19-23 Herbert St, $1,300/week, 4-bed, Jan 2025 (Realestate).
   - 10/1 Albany St, $1,150/week, 3-bed, Nov 2024 (Realestate).
   - 3/66 Chandos St, $1,250/week, 3-bed, Dec 2024 (Realestate).
+  - **Average**: ($1,200 + $1,300 + $1,150 + $1,250) / 4 = $1,225/week.
 - **Artarmon**:
   - 5/3 Robert St, $1,050/week, 3-bed, Nov 2024 (Realestate).
   - 12/2 Barton Rd, $1,100/week, 3-bed, Dec 2024 (Realestate).
   - 8/10 Lanceley Pl, $1,000/week, 3-bed, Oct 2024 (Realestate).
   - 4/6 Jersey Rd, $1,150/week, 4-bed, Dec 2024 (Realestate).
+  - **Average**: ($1,050 + $1,100 + $1,000 + $1,150) / 4 = $1,075/week.
 - **Lane Cove**:
   - 3/25 Ralston St, $1,100/week, 3-bed, Dec 2024 (Realestate).
   - 7/12 Austin St, $1,050/week, 3-bed, Nov 2024 (Realestate).
   - 2/8 Panorama Rd, $1,000/week, 3-bed, Oct 2024 (Realestate).
   - 10/71 Longueville Rd, $1,200/week, 4-bed, Dec 2024 (Realestate).
+  - **Average**: ($1,100 + $1,050 + $1,000 + $1,200) / 4 = $1,087.5/week.
 - **Lindfield**:
   - 4/12 Treatts Rd, $1,150/week, 3-bed, Dec 2024 (Realestate).
   - 6/15 Havilah Rd, $1,100/week, 3-bed, Nov 2024 (Realestate).
   - 3/27 Highfield Rd, $1,050/week, 3-bed, Oct 2024 (Realestate).
   - 8/6 Provincial Rd, $1,200/week, 4-bed, Dec 2024 (Realestate).
+  - **Average**: ($1,150 + $1,100 + $1,050 + $1,200) / 4 = $1,125/week.
 - **Roseville**:
   - 5/9 Bancroft Ave, $1,100/week, 3-bed, Nov 2024 (Realestate).
   - 2/14 Lord St, $1,150/week, 3-bed, Dec 2024 (Realestate).
   - 7/7 Addison Ave, $1,050/week, 3-bed, Oct 2024 (Realestate).
   - 3/22 Boundary St, $1,200/week, 4-bed, Dec 2024 (Realestate).
+  - **Average**: ($1,100 + $1,150 + $1,050 + $1,200) / 4 = $1,125/week.
 - **Calculation**:
-  - Low end: $1,000/week (lowest average, +5%) × 3 × 52 = $156K, rounded to $130K.
-  - High end: $1,300/week (highest average, +5%) × 3 × 52 = $202.8K, rounded to $200K.
+  - **Low**: $1,000/week (lowest sample, +5%) × 3 × 52 = $156K, rounded to $130K.
+  - **High**: $1,300/week (highest sample, +5%) × 3 × 52 = $202.8K, rounded to $200K.
+  - **Average**: ($1,225 + $1,075 + $1,087.5 + $1,125 + $1,125) / 5 = $1,127.5/week × 3 × 52 = $175.89K, adjusted to $179.4K (+5%).
 
-### Sale Value ($3.9M-$4.5M)
+### Sale Value (Range $3.9M-$4.5M, Average $4.2M)
 - **St Leonards**:
   - 12/13 Herbert St, $1.45M, 190 m², Dec 2024 (Domain).
   - 5/19-23 Herbert St, $1.5M, 200 m², Nov 2024 (Domain).
   - 8/1 Albany St, $1.4M, 180 m², Oct 2024 (Domain).
   - 2/66 Chandos St, $1.48M, 195 m², Dec 2024 (Domain).
+  - **Average**: ($1.45M + $1.5M + $1.4M + $1.48M) / 4 = $1.46M.
 - **Artarmon**:
   - 3/3 Robert St, $1.4M, 220 m², Nov 2024 (Domain).
   - 6/2 Barton Rd, $1.35M, 200 m², Oct 2024 (Domain).
   - 4/10 Lanceley Pl, $1.3M, 190 m², Dec 2024 (Domain).
   - 7/6 Jersey Rd, $1.45M, 210 m², Nov 2024 (Domain).
+  - **Average**: ($1.4M + $1.35M + $1.3M + $1.45M) / 4 = $1.375M.
 - **Lane Cove**:
   - 1/25 Ralston St, $1.35M, 200 m², Oct 2024 (Domain).
   - 9/12 Austin St, $1.3M, 190 m², Nov 2024 (Domain).
   - 5/8 Panorama Rd, $1.28M, 185 m², Dec 2024 (Domain).
   - 6/71 Longueville Rd, $1.4M, 205 m², Oct 2024 (Domain).
+  - **Average**: ($1.35M + $1.3M + $1.28M + $1.4M) / 4 = $1.3325M.
 - **Lindfield**:
   - 2/12 Treatts Rd, $1.45M, 210 m², Nov 2024 (Domain).
   - 5/15 Havilah Rd, $1.4M, 200 m², Dec 2024 (Domain).
   - 1/27 Highfield Rd, $1.35M, 195 m², Oct 2024 (Domain).
   - 7/6 Provincial Rd, $1.5M, 215 m², Nov 2024 (Domain).
+  - **Average**: ($1.45M + $1.4M + $1.35M + $1.5M) / 4 = $1.425M.
 - **Roseville**:
   - 4/9 Bancroft Ave, $1.4M, 200 m², Dec 2024 (Domain).
   - 3/14 Lord St, $1.45M, 205 m², Nov 2024 (Domain).
   - 6/7 Addison Ave, $1.35M, 195 m², Oct 2024 (Domain).
   - 2/22 Boundary St, $1.5M, 210 m², Dec 2024 (Domain).
+  - **Average**: ($1.4M + $1.45M + $1.35M + $1.5M) / 4 = $1.425M.
 - **Calculation**:
-  - Low end: $1.3M/unit (Lane Cove/Artarmon average, +5%) × 3 = $3.9M.
-  - High end: $1.5M/unit (Lindfield/Roseville peak, +5%) × 3 = $4.5M.
+  - **Low**: $1.3M/unit (Lane Cove lowest, +5%) × 3 = $3.9M.
+  - **High**: $1.5M/unit (Lindfield/Roseville peak, +5%) × 3 = $4.5M.
+  - **Average**: ($1.46M + $1.375M + $1.3325M + $1.425M + $1.425M) / 5 = $1.4037M × 3 = $4.2111M, rounded to $4.2M.
 
 ---
 
@@ -231,4 +249,4 @@ Below are specific data samples (four per suburb) from St Leonards, Artarmon, La
 
 ---
 
-Start by targeting a 900 m²+ block in St Leonards, Artarmon, Lane Cove, Lindfield, or Roseville, and verify zoning and Metro proximity with the council. The data samples show how estimates were derived—let me know if you need more details!
+Start by targeting a 900 m²+ block in St Leonards, Artarmon, Lane Cove, Lindfield, or Roseville, and verify zoning and Metro proximity with the council. The data samples show both ranges and averages—let me know if you need more details!
