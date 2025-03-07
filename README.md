@@ -62,6 +62,70 @@ This plan outlines the steps to prepare for building a triplex for three familie
 - **Triplex Permissibility**: R2 permits dual occupancy (two dwellings); R3 allows “multi-dwelling housing” (three+ dwellings). Focus on R3 zones near Lindfield/Roseville stations. Strata/Torrens possible in R3.
 - **Specific Considerations**: Ku-ring-gai DCP 2016 emphasizes tree preservation (50% canopy cover), 8 m front setback, 3 m side/rear, and 6 parking spaces. Heritage conservation areas (e.g., Roseville) may restrict development.
 
+4. **Site Constraints**: Investigate the following factors for each potential site to ensure feasibility and compliance:
+   - **Topography and Slope**: Assess gradient (e.g., Lane Cove’s steep terrain, Ku-ring-gai’s undulating land) for foundation design, excavation costs, and drainage. Slopes >15% may require retaining walls or stepped designs.
+   - **Soil Type and Stability**: Test for clay, rock, or sandy soils (common in North Shore). Clay may shrink/swell, requiring deeper footings; rock increases excavation costs.
+   - **Tree Preservation**: Identify protected trees (e.g., Ku-ring-gai’s 50% canopy rule, Willoughby’s 50% landscaping). Removal requires council approval and offsets.
+   - **Flood Risk**: Check flood maps (e.g., St Leonards near stormwater channels, Lane Cove lowlands). Flood-prone sites need raised floors or mitigation.
+   - **Bushfire Risk**: Evaluate BAL ratings (e.g., Artarmon bush interfaces, Ku-ring-gai’s leafy areas). BAL-29 or higher may require fire-resistant materials.
+   - **Heritage Constraints**: Confirm heritage listings or conservation areas (e.g., Roseville HCA, St Leonards items). Heritage impacts may limit demolition or design.
+   - **Access and Driveways**: Ensure site width (min 15 m for shared driveway) and street access support 6 parking spaces. Narrow frontages may complicate entry.
+   - **Utility Connections**: Verify proximity to sewer, water, and power (Sydney Water, Ausgrid). Distant connections increase costs; easements may restrict layout.
+   - **Shadow Impacts**: Model solar access for neighbors (DCP rules: 2-3 hours sunlight midwinter). Taller designs (e.g., 12 m in R3) may trigger objections.
+   - **Noise and Traffic**: Assess proximity to Pacific Hwy (St Leonards, Artarmon) or rail lines (Lindfield, Roseville). Acoustic buffering may be needed.
+   - **Contamination**: Investigate past industrial use (e.g., Artarmon’s historical factories). Soil testing for pollutants (e.g., heavy metals) may be required.
+   - **Overland Flow Paths**: Map stormwater runoff (common in Lane Cove, Ku-ring-gai). Avoid floodways; design drainage solutions.
+   - **Privacy Impacts**: Ensure setbacks and window placement minimize overlooking (e.g., 3 m side/rear per DCPs). Neighbor complaints can delay DA approval.
+   - **Easements and Covenants**: Check title for restrictions (e.g., drainage easements, building envelopes). These may limit buildable area.
+   - **Site Orientation**: Optimize north-facing aspects for solar gain (BASIX compliance). Poor orientation increases energy costs.
+   - **Geotechnical Hazards**: Investigate landslides or subsidence risks (e.g., Ku-ring-gai’s slopes). Geotech reports may be mandatory.
+   - **Vegetation and Biodiversity**: Identify native species or habitat (e.g., Ku-ring-gai’s koala corridors). Clearing may need ecological assessment.
+
+---
+
+### Notes on Site Constraints:
+- **Investigation Methods**: Engage a surveyor (topography, easements), geotechnical engineer (soil, stability), arborist (trees), and planner (heritage, zoning maps) to assess these constraints.
+- **Council Resources**: Use council LEP/DCP maps, flood/bushfire overlays, and heritage registers (e.g., North Sydney’s online portal, Ku-ring-gai’s Biodiversity Strategy).
+- **Impact on Triplex**: Constraints like FSR exceedances (Lane Cove, Ku-ring-gai), heritage, or steep slopes may require design adjustments (e.g., reducing footprint to 540 m²) or DA variations.
+
+Replace this section directly into your Markdown file to include both zoning details and a thorough list of site constraints to investigate further. Let me know if you need additional refinements!
+
+### North Sydney Council (St Leonards)
+- **Relevant LEP**: North Sydney Local Environmental Plan 2013 (amended to 2025).
+- **Applicable Zones**: R3 Medium Density Residential (common in St Leonards near Metro).
+- **Minimum Lot Size**: 600 m² for multi-dwelling housing (Clause 4.1); 900 m² exceeds this.
+- **Height Limit**: 12 m (Clause 4.3, varies by map; check Height of Buildings Map for specific St Leonards sites).
+- **Floor Space Ratio (FSR)**: 0.9:1 (Clause 4.4, check FSR Map). For 900 m²: 810 m² max GFA; 600 m² fits within this.
+- **Triplex Permissibility**: “Multi-dwelling housing” (three or more dwellings on one lot) is permitted in R3 zones. Strata or Torrens subdivision possible post-construction (Clause 4.1A allows flexibility for 900 m²+ lots).
+- **Specific Considerations**: St Leonards has high-density overlays near the Metro; ensure setbacks (min 6 m front, 3 m side/rear per DCP) and parking (2 spaces/dwelling, 6 total) comply with North Sydney DCP 2013. Heritage or flood zones may restrict some sites.
+
+### Willoughby Council (Artarmon)
+- **Relevant LEP**: Willoughby Local Environmental Plan 2012 (amended to 2025).
+- **Applicable Zones**: R2 Low Density Residential or R3 Medium Density Residential (Artarmon varies by precinct).
+- **Minimum Lot Size**: R2: 450 m² (NSW dual occupancy reform, 2025); R3: 700 m² for multi-dwelling housing (Clause 4.1). 900 m² exceeds both.
+- **Height Limit**: R2: 9.5 m; R3: 12 m (Clause 4.3, check Height of Buildings Map).
+- **Floor Space Ratio (FSR)**: R2: 0.5:1 (450 m² GFA); R3: 0.7:1 (630 m² GFA) (Clause 4.4, check FSR Map). 600 m² fits R3 but exceeds R2.
+- **Triplex Permissibility**: R2 allows dual occupancy (two dwellings); R3 permits “multi-dwelling housing” (three+ dwellings). Target R3 zones for a triplex, or seek a DA variation in R2 (less likely to succeed). Strata/Torrens viable in R3.
+- **Specific Considerations**: Willoughby DCP 2022 requires 6 m front setback, 1.5-3 m side/rear, and 50% site landscaping. Parking: 2 spaces/dwelling (6 total). Check bushfire or heritage constraints.
+
+### Lane Cove Council (Lane Cove)
+- **Relevant LEP**: Lane Cove Local Environmental Plan 2009 (amended to 2025).
+- **Applicable Zones**: R3 Medium Density Residential (prevalent near Metro proximity areas).
+- **Minimum Lot Size**: 800 m² for multi-dwelling housing (Clause 4.1); 900 m² meets this.
+- **Height Limit**: 9.5 m (Clause 4.3, check Height of Buildings Map; some areas up to 12 m near transport hubs).
+- **Floor Space Ratio (FSR)**: 0.6:1 (Clause 4.4, check FSR Map). For 900 m²: 540 m² max GFA; 600 m² exceeds this, requiring a variation or smaller design.
+- **Triplex Permissibility**: “Multi-dwelling housing” permitted in R3 zones. Strata or Torrens subdivision allowed (Clause 4.1A). R2 zones (450 m² min) limit to dual occupancy.
+- **Specific Considerations**: Lane Cove DCP 2010 mandates 6 m front setback, 3 m side/rear, and 40% landscaped area. Parking: 2 spaces/dwelling (6 total). Steep slopes or heritage items may impact site selection.
+
+### Ku-ring-gai Council (Lindfield, Roseville)
+- **Relevant LEP**: Ku-ring-gai Local Environmental Plan 2015 (amended to 2025).
+- **Applicable Zones**: R2 Low Density Residential (common) or R3 Medium Density Residential (near stations).
+- **Minimum Lot Size**: R2: 700 m² proposed for dual occupancy (2025 consultation, Option A); R3: 900 m² for multi-dwelling housing (Clause 4.1). 900 m² meets R3, exceeds R2.
+- **Height Limit**: R2: 9.5 m; R3: 12 m (Clause 4.3, check Height of Buildings Map; varies near stations).
+- **Floor Space Ratio (FSR)**: R2: 0.3:1 (270 m² GFA); R3: 0.6:1 (540 m² GFA) (Clause 4.4, check FSR Map). 600 m² exceeds both; R3 variation more feasible.
+- **Triplex Permissibility**: R2 permits dual occupancy (two dwellings); R3 allows “multi-dwelling housing” (three+ dwellings). Focus on R3 zones near Lindfield/Roseville stations. Strata/Torrens possible in R3.
+- **Specific Considerations**: Ku-ring-gai DCP 2016 emphasizes tree preservation (50% canopy cover), 8 m front setback, 3 m side/rear, and 6 parking spaces. Heritage conservation areas (e.g., Roseville) may restrict development.
+
 4. **Site Constraints**: Evaluate slope, trees, soil, and access for chosen sites.
 
 ---
