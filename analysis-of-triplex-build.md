@@ -1,155 +1,117 @@
 # Plan for Designing a Triplex with Two Co-Investors
 
 ## Overview
-This plan outlines the process of designing a triplex (three attached residential units) with two co-investors, who may either keep or sell their units. The goal is to create a functional, marketable, and cost-effective design, balancing individual preferences with investment returns. The process involves collaboration with an architect for design, builders for construction, and a detailed cost analysis per feature to inform decisions. The triplex is assumed to be built on a single lot (e.g., 1100 sqm), with considerations for resale value or long-term ownership.
+This plan outlines designing a triplex (three attached single-storey units) with two co-investors, based on a baseline of 4-bedroom, 200 sqm units costing AUD 600,000 each (AUD 1,800,000 total for the triplex on a 1100 sqm lot). The process details decisions with an architect, builder discussions, and costs for baseline features plus changes. Investors may retain or sell units, so the design balances cost, livability, and market appeal.
 
 ## Step 1: Decisions with the Architect
-When designing a triplex, you’ll work with an architect to define the layout, style, and functionality. Here’s what you need to decide, akin to designing a standalone house but scaled for three units:
+### Baseline Design (Single-Storey, 4-Bed, 200 sqm per Unit)
+- **Unit Configuration**: 4 bedrooms, 200 sqm per unit, single-storey.
+- **Total Triplex**: 3 units × 200 sqm = 600 sqm floor area.
+- **Cost Baseline**: AUD 600,000/unit (AUD 1,800,000 total), sourced from a seen example.
 
-### 1.1 Unit Configuration
-- **Number of Bedrooms per Unit**: Options: 2, 3, or 4 bedrooms per unit.
-  - Rationale: Impacts marketability (e.g., families vs. couples) and cost. Decide if all units are identical or vary (e.g., one 4-bed, two 3-bed).
-- **Unit Size**: Total floor area per unit (e.g., 120 sqm, 150 sqm, 180 sqm).
-  - Rationale: Larger units increase costs but may appeal to premium buyers or suit investor retention.
-- **Floors**: Single-storey vs. two-storey design.
-  - Rationale: Single-storey saves on structural costs; two-storey maximizes land use but adds complexity.
+### What the Baseline Likely Includes
+Based on AUD 600,000/unit (AUD 3,000/sqm construction cost, typical for 2025 Sydney mid-range builds), here’s the assumed standard inclusions:
+- **Structure**: Concrete slab, brick veneer walls, tiled roof.
+- **Layout**: Open-plan living/dining/kitchen (50 sqm), 4 bedrooms (15 sqm each, 60 sqm total), 2 bathrooms (main + ensuite, 10 sqm total), laundry (5 sqm), single garage (25 sqm).
+- **Kitchen**: Medium-sized (15 sqm), mid-range fit-out (laminate cabinets, stone benchtop, basic appliances: oven, cooktop, rangehood, dishwasher).
+- **Bathrooms**: 2 (main: shower, toilet, vanity; ensuite: shower, toilet, vanity), ceramic tiles, mid-range fixtures.
+- **Flooring**: Ceramic tiles throughout (AUD 100/sqm installed).
+- **Parking**: Single garage per unit (25 sqm, concrete floor, roller door).
+- **Windows/Doors**: Aluminium frames, double-glazed.
+- **Utilities**: Basic plumbing, electrical, split-system air conditioning (1 unit per home).
+- **Shared Features**: Concrete driveway (100 sqm), basic landscaping, utility connections split across units.
+- **Exclusions**: No premium finishes, balconies, or extensive outdoor areas beyond small patio (10 sqm).
 
-### 1.2 Layout and Shared Spaces
-- **Internal Layout**: Open-plan vs. traditional (separate rooms for kitchen, living, dining).
-  - Rationale: Open-plan is modern and cost-efficient; traditional suits specific demographics.
-- **Shared vs. Private Areas**: Common areas (e.g., garden, driveway) vs. fully separated units (e.g., private entrances, yards).
-  - Rationale: Shared spaces reduce costs but may deter buyers wanting privacy.
-- **Parking**: Garages (single/double) or carports per unit.
-  - Rationale: Garages add value but increase costs; carports are cheaper.
-
-### 1.3 Design Features
-- **Kitchen Size**: Small (e.g., 10 sqm), medium (15 sqm), or large (20 sqm).
-  - Rationale: Larger kitchens appeal to families but raise fit-out costs.
-- **Bathrooms**: Number per unit (e.g., 1, 1.5, or 2).
-  - Rationale: More bathrooms increase comfort and value but add plumbing costs.
-- **Flooring**: Tile vs. timber vs. hybrid options.
-  - Rationale: Affects cost, durability, and aesthetic appeal.
-- **Outdoor Space**: Balconies, patios, or small yards per unit.
-  - Rationale: Enhances livability but reduces buildable area.
-
-### 1.4 Compliance and Style
-- **Local Regulations**: Zoning, setbacks, height restrictions (e.g., Ku-ring-gai Council for Roseville Chase).
-  - Rationale: Ensures approval; architect confirms compliance.
-- **Architectural Style**: Modern, traditional, or hybrid.
-  - Rationale: Aligns with market trends and investor preferences (e.g., modern for resale, traditional for retention).
-
-### 1.5 Investor Input
-- **Retention vs. Sale**: Will any investor live in a unit? If so, customize their unit (e.g., extra room, premium finishes).
-- **Budget Split**: Agree on total budget and cost allocation (equal thirds or proportional to unit size/ownership).
-- **Timeline**: Design phase duration (e.g., 2-3 months).
+### Additional Design Decisions
+- **Shared Spaces**: Confirm driveway, landscaping split (included in baseline).
+- **Style**: Modern (assumed for cost efficiency).
+- **Retention**: If an investor keeps a unit, customize later (see changes below).
 
 ## Step 2: Discussions with Builders
-Once the architect drafts plans, engage builders for construction feasibility and cost estimates. Key discussion points:
+### Baseline Confirmation
+- **Site**: Flat 1100 sqm lot (e.g., Roseville Chase), standard slab foundation.
+- **Cost**: AUD 3,000/sqm × 600 sqm = AUD 1,800,000, aligning with baseline.
+- **Timeline**: 6-9 months for single-storey triplex.
 
-### 2.1 Construction Feasibility
-- **Site Assessment**: Soil type, slope, access (e.g., 1100 sqm flat vs. sloping land).
-  - Impact: Affects foundation costs (e.g., slab vs. piers).
-- **Unit Separation**: Structural walls (fire-rated, soundproofed) between units.
-  - Impact: Ensures compliance and privacy, adding to costs.
+### Changes Discussion
+- **Feasibility**: Assess site impact of upgrades (e.g., larger kitchens, extra floors).
+- **Quotes**: Itemized costs for changes (see below).
+- **Materials**: Mid-range standard; discuss upgrades (e.g., timber flooring).
 
-### 2.2 Cost Estimates
-- **Base Build Costs**: Per sqm rate for structure (e.g., AUD 2,500–3,500/sqm in Sydney, 2025).
-- **Feature-Specific Costs**: Quotes for kitchens, bathrooms, flooring, etc. (see breakdown below).
-- **Shared Infrastructure**: Driveway, utilities (water, electricity, sewer) split across units.
+## Step 3: Cost Breakdown
+### Baseline Costs (AUD 600,000/Unit)
+- **Structure**: 200 sqm × AUD 2,500/sqm = AUD 500,000 (frame, walls, roof, slab).
+- **Kitchen (Medium)**: AUD 30,000.
+- **Bathrooms (2)**: AUD 30,000 (AUD 15,000 each).
+- **Flooring (Tile)**: 200 sqm × AUD 100/sqm = AUD 20,000.
+- **Garage (Single)**: AUD 20,000.
+- **Shared Costs**: Driveway (AUD 15,000), utilities (AUD 10,000), landscaping (AUD 5,000) = AUD 30,000 ÷ 3 = AUD 10,000/unit.
+- **Total**: AUD 600,000/unit (verified).
 
-### 2.3 Timeline and Logistics
-- **Build Duration**: Single-storey (6-9 months) vs. two-storey (9-12 months).
-- **Staging**: Build all units simultaneously or in phases (if investors retain units later).
-- **Permits**: Builder confirms council approval timeline (e.g., DA process in NSW).
+### Additional Costs for Changes
+Costs below are per unit unless stated, added to the AUD 600,000 baseline.
 
-### 2.4 Quality and Materials
-- **Finish Level**: Basic, mid-range, or premium (e.g., cabinetry, fixtures).
-- **Material Choices**: Concrete vs. brick walls, tile vs. metal roofing.
-  - Impact: Balances cost vs. durability/market appeal.
+#### Extra Rooms
+- **Add 1 Bedroom (5-Bed Total)**: 20 sqm, AUD 35,000 (includes fit-out, walls, door).
+  - New size: 220 sqm, +AUD 35,000/unit.
+- **Triplex Total (3 × 5-bed)**: +AUD 105,000.
 
-## Step 3: Cost Breakdown per Feature
-Below is an estimated cost breakdown per feature, based on 2025 Sydney construction rates (e.g., Cordell Cost Guide, adjusted). Costs are per unit unless stated, assuming a triplex on 1100 sqm. Investors can adjust based on quotes.
+#### Kitchen Upgrades
+- **Large Kitchen (20 sqm)**: AUD 45,000 (vs. AUD 30,000 medium).
+  - Additional cost: +AUD 15,000/unit.
+- **Triplex Total**: +AUD 45,000.
 
-### 3.1 Base Structure
-- **Single-Storey**: AUD 2,500/sqm
-  - 120 sqm unit = 120 × 2,500 = AUD 300,000
-  - 150 sqm unit = 150 × 2,500 = AUD 375,000
-- **Two-Storey**: AUD 3,000/sqm (extra for stairs, foundations)
-  - 120 sqm unit = 120 × 3,000 = AUD 360,000
-  - 150 sqm unit = 150 × 3,000 = AUD 450,000
-- **Total Triplex (3 × 150 sqm)**:
-  - Single-storey: AUD 1,125,000
-  - Two-storey: AUD 1,350,000
+#### Bathroom Upgrades
+- **Add 0.5 Bath (2.5 Total)**: Powder room, AUD 7,000.
+  - Additional cost: +AUD 7,000/unit.
+- **Triplex Total**: +AUD 21,000.
 
-### 3.2 Extra Rooms
-- **Additional Bedroom**: AUD 25,000–35,000 (20 sqm, basic fit-out)
-  - 2-bed to 3-bed: +AUD 30,000/unit avg.
-  - 3-bed to 4-bed: +AUD 30,000/unit avg.
-- **Total for 3 Units (e.g., all 3-bed to 4-bed)**: +AUD 90,000
+#### Flooring Upgrades
+- **Timber (vs. Tile)**: 200 sqm × AUD 150/sqm = AUD 30,000 (vs. AUD 20,000).
+  - Additional cost: +AUD 10,000/unit.
+- **Triplex Total**: +AUD 30,000.
 
-### 3.3 Kitchen Size
-- **Small (10 sqm)**: AUD 20,000 (basic appliances, cabinetry)
-- **Medium (15 sqm)**: AUD 30,000 (mid-range finishes)
-- **Large (20 sqm)**: AUD 45,000 (premium appliances, island)
-- **Total for 3 Units**:
-  - All small: AUD 60,000
-  - All medium: AUD 90,000
-  - All large: AUD 135,000
+#### Parking Upgrades
+- **Double Garage (vs. Single)**: AUD 35,000 (vs. AUD 20,000).
+  - Additional cost: +AUD 15,000/unit.
+- **Triplex Total**: +AUD 45,000.
 
-### 3.4 Bathrooms
-- **1 Bathroom**: AUD 15,000 (basic, 5 sqm)
-- **1.5 Bathrooms** (add powder room): AUD 22,000
-- **2 Bathrooms**: AUD 30,000 (ensuite + main)
-- **Total for 3 Units**:
-  - All 1 bath: AUD 45,000
-  - All 2 baths: AUD 90,000
+#### Floor Addition (Not Baseline)
+- **Convert to Two-Storey**: 200 sqm × AUD 500/sqm extra (stairs, foundations) = AUD 100,000/unit.
+  - New cost: AUD 700,000/unit (not pursued, noted for comparison).
+- **Triplex Total**: +AUD 300,000.
 
-### 3.5 Flooring
-- **Tile**: AUD 100/sqm installed
-  - 120 sqm unit = 120 × 100 = AUD 12,000
-  - 150 sqm unit = 150 × 100 = AUD 15,000
-- **Timber**: AUD 150/sqm installed
-  - 120 sqm unit = 120 × 150 = AUD 18,000
-  - 150 sqm unit = 150 × 150 = AUD 22,500
-- **Total for 3 Units (150 sqm each)**:
-  - All tile: AUD 45,000
-  - All timber: AUD 67,500
+#### Outdoor Space
+- **Balcony/Patio (20 sqm)**: AUD 10,000/unit (concrete, railing).
+- **Triplex Total**: +AUD 30,000.
 
-### 3.6 Parking
-- **Carport (single)**: AUD 10,000/unit
-- **Garage (single)**: AUD 20,000/unit
-- **Garage (double)**: AUD 35,000/unit
-- **Total for 3 Units**:
-  - All single garages: AUD 60,000
-  - All double garages: AUD 105,000
+### Example Total Costs (Per Scenario)
+#### Baseline (No Changes)
+- **Per Unit**: AUD 600,000.
+- **Triplex Total**: AUD 1,800,000.
+- **Cost per Investor (3 equal)**: AUD 1,800,000 ÷ 3 = **AUD 600,000 each**.
 
-### 3.7 Shared Costs (for 1100 sqm Lot)
-- **Driveway (concrete, 100 sqm)**: AUD 15,000
-- **Utilities Connection**: AUD 20,000–30,000 (split across units)
-- **Landscaping (basic)**: AUD 10,000
+#### Mid-Range Upgrade (Timber, Large Kitchen, Double Garage)
+- **Per Unit**: AUD 600,000 + 10,000 (timber) + 15,000 (kitchen) + 15,000 (garage) = AUD 640,000.
+- **Triplex Total**: AUD 640,000 × 3 = AUD 1,920,000.
+- **Cost per Investor**: AUD 1,920,000 ÷ 3 = **AUD 640,000 each**.
 
-### 3.8 Example Total Costs
-For 3 × 150 sqm units, mid-range finishes:
-- Two-storey base: AUD 1,350,000
-- 3-bed (no extras): Included in base
-- Medium kitchens: AUD 90,000
-- 2 bathrooms/unit: AUD 90,000
-- Timber flooring: AUD 67,500
-- Single garages: AUD 60,000
-- Shared costs: AUD 35,000 (avg.)
-- **Total**: AUD 1,692,500 (AUD 564,167/investor if split equally)
+#### High-End Upgrade (5-Bed, Timber, Large Kitchen, 2.5 Baths, Double Garage, Patio)
+- **Per Unit**: AUD 600,000 + 35,000 (bed) + 10,000 (timber) + 15,000 (kitchen) + 7,000 (bath) + 15,000 (garage) + 10,000 (patio) = AUD 692,000.
+- **Triplex Total**: AUD 692,000 × 3 = AUD 2,076,000.
+- **Cost per Investor**: AUD 2,076,000 ÷ 3 = **AUD 692,000 each**.
 
 ## Action Plan
-1. **Investor Meeting**: Agree on budget (e.g., AUD 1.5–2M), unit sizes, and retention plans.
-2. **Hire Architect**: Draft initial plans (2-3 months, AUD 20,000–40,000 fee).
-3. **Review Designs**: Finalize layout, features based on cost breakdown.
-4. **Builder Quotes**: Select builder, refine costs (1-2 months).
-5. **Council Approval**: Submit DA (3-6 months in NSW).
-6. **Construction**: 9-12 months, monitor budget splits.
+1. **Investor Meeting**: Confirm baseline (AUD 600,000/unit), discuss upgrades.
+2. **Architect**: Draft 4-bed, 200 sqm single-storey plans (2-3 months, AUD 30,000 fee).
+3. **Builder Quotes**: Verify AUD 600,000/unit, quote changes (1-2 months).
+4. **Council Approval**: Submit DA (3-6 months, e.g., Ku-ring-gai Council).
+5. **Construction**: 6-9 months, split costs equally (or adjust if one retains a unit).
 
 ## Considerations for Investors
-- **Flexibility**: If one keeps a unit, customize it (e.g., larger kitchen) but adjust cost shares.
-- **Marketability**: Mid-range finishes (timber, 2 baths) balance cost vs. resale value.
-- **Risk**: Delays or cost overruns—build contingency (10–15%) into budget.
+- **Baseline Value**: AUD 600,000/unit offers mid-range appeal, suitable for resale or retention.
+- **Upgrades**: Timber, larger kitchens, and garages boost value (e.g., +AUD 40,000/unit for mid-range) but check ROI vs. market demand.
+- **Flexibility**: If one investor keeps a unit, add upgrades (e.g., 5-bed) and adjust their share (e.g., AUD 652,000 vs. AUD 600,000 for others).
+- **Contingency**: Add 10% (AUD 180,000 total) for overruns.
 
-This plan provides a structured approach to designing and costing a triplex, ensuring transparency and collaboration among investors.
+This plan aligns the AUD 600,000/unit baseline with practical inclusions and offers clear upgrade costs, ensuring investor transparency.
