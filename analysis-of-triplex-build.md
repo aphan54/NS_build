@@ -1,117 +1,165 @@
 # Plan for Designing a Triplex with Two Co-Investors
 
 ## Overview
-This plan outlines designing a triplex (three attached single-storey units) with two co-investors, based on a baseline of 4-bedroom, 200 sqm units costing AUD 600,000 each (AUD 1,800,000 total for the triplex on a 1100 sqm lot). The process details decisions with an architect, builder discussions, and costs for baseline features plus changes. Investors may retain or sell units, so the design balances cost, livability, and market appeal.
+This plan outlines designing a triplex (three attached single-storey units) with two co-investors, based on a baseline of 4-bedroom, 200 sqm units costing AUD 600,000 each (AUD 1,800,000 total for the triplex on a 1100 sqm lot). The process details decisions with an architect, builder discussions, and costs for baseline features plus changes. Investors may retain or sell units, so the design balances cost, livability, and market appeal. Tables are used for data to enable copying into Google Sheets.
 
 ## Step 1: Decisions with the Architect
 ### Baseline Design (Single-Storey, 4-Bed, 200 sqm per Unit)
-- **Unit Configuration**: 4 bedrooms, 200 sqm per unit, single-storey.
-- **Total Triplex**: 3 units × 200 sqm = 600 sqm floor area.
-- **Cost Baseline**: AUD 600,000/unit (AUD 1,800,000 total), sourced from a seen example.
+| Attribute           | Value              |
+|---------------------|--------------------|
+| Unit Configuration  | 4 bedrooms         |
+| Unit Size           | 200 sqm            |
+| Floors              | Single-storey      |
+| Cost per Unit       | AUD 600,000        |
+| Total Triplex       | 3 units × 200 sqm = 600 sqm |
+| Total Cost          | AUD 1,800,000      |
 
 ### What the Baseline Likely Includes
-Based on AUD 600,000/unit (AUD 3,000/sqm construction cost, typical for 2025 Sydney mid-range builds), here’s the assumed standard inclusions:
-- **Structure**: Concrete slab, brick veneer walls, tiled roof.
-- **Layout**: Open-plan living/dining/kitchen (50 sqm), 4 bedrooms (15 sqm each, 60 sqm total), 2 bathrooms (main + ensuite, 10 sqm total), laundry (5 sqm), single garage (25 sqm).
-- **Kitchen**: Medium-sized (15 sqm), mid-range fit-out (laminate cabinets, stone benchtop, basic appliances: oven, cooktop, rangehood, dishwasher).
-- **Bathrooms**: 2 (main: shower, toilet, vanity; ensuite: shower, toilet, vanity), ceramic tiles, mid-range fixtures.
-- **Flooring**: Ceramic tiles throughout (AUD 100/sqm installed).
-- **Parking**: Single garage per unit (25 sqm, concrete floor, roller door).
-- **Windows/Doors**: Aluminium frames, double-glazed.
-- **Utilities**: Basic plumbing, electrical, split-system air conditioning (1 unit per home).
-- **Shared Features**: Concrete driveway (100 sqm), basic landscaping, utility connections split across units.
-- **Exclusions**: No premium finishes, balconies, or extensive outdoor areas beyond small patio (10 sqm).
+Based on AUD 600,000/unit (AUD 3,000/sqm construction cost, typical for 2025 Sydney mid-range builds), the assumed standard inclusions are:
+
+| Feature             | Description                                      | Estimated Cost (per Unit) |
+|---------------------|--------------------------------------------------|---------------------------|
+| Structure           | Concrete slab, brick veneer walls, tiled roof    | AUD 500,000               |
+| Layout              | Open-plan living/dining/kitchen (50 sqm), 4 beds (60 sqm total), 2 baths (10 sqm), laundry (5 sqm), garage (25 sqm) | Included in Structure |
+| Kitchen             | Medium (15 sqm), mid-range (laminate, stone, basic appliances) | AUD 30,000           |
+| Bathrooms           | 2 (main + ensuite), ceramic tiles, mid-range     | AUD 30,000                |
+| Flooring            | Ceramic tiles (AUD 100/sqm)                      | AUD 20,000                |
+| Garage              | Single (25 sqm, concrete, roller door)           | AUD 20,000                |
+| Windows/Doors       | Aluminium, double-glazed                         | Included in Structure     |
+| Utilities           | Basic plumbing, electrical, 1 split-system AC    | Included in Structure     |
+| Shared Costs        | Driveway (100 sqm), utilities, basic landscaping | AUD 10,000 (AUD 30,000 ÷ 3) |
+| Total               |                                                  | AUD 600,000               |
+
+**Notes**: Excludes premium finishes, balconies, or extensive outdoor areas beyond a small patio (10 sqm).
 
 ### Additional Design Decisions
-- **Shared Spaces**: Confirm driveway, landscaping split (included in baseline).
-- **Style**: Modern (assumed for cost efficiency).
-- **Retention**: If an investor keeps a unit, customize later (see changes below).
+| Decision            | Description                                      |
+|---------------------|--------------------------------------------------|
+| Shared Spaces       | Confirm driveway, landscaping split (in baseline) |
+| Style               | Modern (assumed for cost efficiency)             |
+| Retention           | Customize if an investor keeps a unit (see changes) |
 
 ## Step 2: Discussions with Builders
 ### Baseline Confirmation
-- **Site**: Flat 1100 sqm lot (e.g., Roseville Chase), standard slab foundation.
-- **Cost**: AUD 3,000/sqm × 600 sqm = AUD 1,800,000, aligning with baseline.
-- **Timeline**: 6-9 months for single-storey triplex.
+| Aspect              | Details                                          |
+|---------------------|--------------------------------------------------|
+| Site                | Flat 1100 sqm lot (e.g., Roseville Chase), slab  |
+| Cost                | AUD 3,000/sqm × 600 sqm = AUD 1,800,000          |
+| Timeline            | 6-9 months for single-storey triplex             |
 
 ### Changes Discussion
-- **Feasibility**: Assess site impact of upgrades (e.g., larger kitchens, extra floors).
-- **Quotes**: Itemized costs for changes (see below).
-- **Materials**: Mid-range standard; discuss upgrades (e.g., timber flooring).
+| Topic               | Details                                          |
+|---------------------|--------------------------------------------------|
+| Feasibility         | Assess site impact of upgrades (e.g., kitchen size) |
+| Quotes              | Itemized costs for changes (see below)           |
+| Materials           | Mid-range standard; discuss upgrades (e.g., timber) |
 
 ## Step 3: Cost Breakdown
 ### Baseline Costs (AUD 600,000/Unit)
-- **Structure**: 200 sqm × AUD 2,500/sqm = AUD 500,000 (frame, walls, roof, slab).
-- **Kitchen (Medium)**: AUD 30,000.
-- **Bathrooms (2)**: AUD 30,000 (AUD 15,000 each).
-- **Flooring (Tile)**: 200 sqm × AUD 100/sqm = AUD 20,000.
-- **Garage (Single)**: AUD 20,000.
-- **Shared Costs**: Driveway (AUD 15,000), utilities (AUD 10,000), landscaping (AUD 5,000) = AUD 30,000 ÷ 3 = AUD 10,000/unit.
-- **Total**: AUD 600,000/unit (verified).
+| Component           | Calculation                                      | Cost (per Unit) |
+|---------------------|--------------------------------------------------|-----------------|
+| Structure           | 200 sqm × AUD 2,500/sqm                          | AUD 500,000     |
+| Kitchen (Medium)    | Mid-range fit-out                                | AUD 30,000      |
+| Bathrooms (2)       | AUD 15,000 each                                  | AUD 30,000      |
+| Flooring (Tile)     | 200 sqm × AUD 100/sqm                            | AUD 20,000      |
+| Garage (Single)     | Concrete, roller door                            | AUD 20,000      |
+| Shared Costs        | Driveway (AUD 15,000), utilities (AUD 10,000), landscaping (AUD 5,000) ÷ 3 | AUD 10,000 |
+| Total               |                                                  | AUD 600,000     |
 
 ### Additional Costs for Changes
-Costs below are per unit unless stated, added to the AUD 600,000 baseline.
+Costs are per unit unless stated, added to AUD 600,000 baseline.
 
 #### Extra Rooms
-- **Add 1 Bedroom (5-Bed Total)**: 20 sqm, AUD 35,000 (includes fit-out, walls, door).
-  - New size: 220 sqm, +AUD 35,000/unit.
-- **Triplex Total (3 × 5-bed)**: +AUD 105,000.
+| Change              | Description                                      | Cost (per Unit) | Triplex Total |
+|---------------------|--------------------------------------------------|-----------------|---------------|
+| Add 1 Bedroom (5-Bed) | 20 sqm, includes fit-out, walls, door          | AUD 35,000      | AUD 105,000   |
 
 #### Kitchen Upgrades
-- **Large Kitchen (20 sqm)**: AUD 45,000 (vs. AUD 30,000 medium).
-  - Additional cost: +AUD 15,000/unit.
-- **Triplex Total**: +AUD 45,000.
+| Change              | Description                                      | Cost (per Unit) | Triplex Total |
+|---------------------|--------------------------------------------------|-----------------|---------------|
+| Large Kitchen (20 sqm) | Premium appliances, island (vs. AUD 30,000 medium) | AUD 15,000   | AUD 45,000    |
 
 #### Bathroom Upgrades
-- **Add 0.5 Bath (2.5 Total)**: Powder room, AUD 7,000.
-  - Additional cost: +AUD 7,000/unit.
-- **Triplex Total**: +AUD 21,000.
+| Change              | Description                                      | Cost (per Unit) | Triplex Total |
+|---------------------|--------------------------------------------------|-----------------|---------------|
+| Add 0.5 Bath (2.5 Total) | Powder room                                  | AUD 7,000       | AUD 21,000    |
 
 #### Flooring Upgrades
-- **Timber (vs. Tile)**: 200 sqm × AUD 150/sqm = AUD 30,000 (vs. AUD 20,000).
-  - Additional cost: +AUD 10,000/unit.
-- **Triplex Total**: +AUD 30,000.
+| Change              | Description                                      | Cost (per Unit) | Triplex Total |
+|---------------------|--------------------------------------------------|-----------------|---------------|
+| Timber (vs. Tile)   | 200 sqm × AUD 150/sqm (vs. AUD 20,000 tile)      | AUD 10,000      | AUD 30,000    |
 
 #### Parking Upgrades
-- **Double Garage (vs. Single)**: AUD 35,000 (vs. AUD 20,000).
-  - Additional cost: +AUD 15,000/unit.
-- **Triplex Total**: +AUD 45,000.
+| Change              | Description                                      | Cost (per Unit) | Triplex Total |
+|---------------------|--------------------------------------------------|-----------------|---------------|
+| Double Garage (vs. Single) | Larger space, concrete (vs. AUD 20,000)   | AUD 15,000      | AUD 45,000    |
 
 #### Floor Addition (Not Baseline)
-- **Convert to Two-Storey**: 200 sqm × AUD 500/sqm extra (stairs, foundations) = AUD 100,000/unit.
-  - New cost: AUD 700,000/unit (not pursued, noted for comparison).
-- **Triplex Total**: +AUD 300,000.
+| Change              | Description                                      | Cost (per Unit) | Triplex Total |
+|---------------------|--------------------------------------------------|-----------------|---------------|
+| Convert to Two-Storey | 200 sqm × AUD 500/sqm extra (stairs, foundations) | AUD 100,000  | AUD 300,000   |
 
 #### Outdoor Space
-- **Balcony/Patio (20 sqm)**: AUD 10,000/unit (concrete, railing).
-- **Triplex Total**: +AUD 30,000.
+| Change              | Description                                      | Cost (per Unit) | Triplex Total |
+|---------------------|--------------------------------------------------|-----------------|---------------|
+| Balcony/Patio (20 sqm) | Concrete, railing                             | AUD 10,000      | AUD 30,000    |
 
 ### Example Total Costs (Per Scenario)
 #### Baseline (No Changes)
-- **Per Unit**: AUD 600,000.
-- **Triplex Total**: AUD 1,800,000.
-- **Cost per Investor (3 equal)**: AUD 1,800,000 ÷ 3 = **AUD 600,000 each**.
+| Metric              | Value                                            |
+|---------------------|--------------------------------------------------|
+| Per Unit            | AUD 600,000                                      |
+| Triplex Total       | AUD 1,800,000                                    |
+| Cost per Investor (3 equal) | AUD 1,800,000 ÷ 3 = AUD 600,000          |
 
 #### Mid-Range Upgrade (Timber, Large Kitchen, Double Garage)
-- **Per Unit**: AUD 600,000 + 10,000 (timber) + 15,000 (kitchen) + 15,000 (garage) = AUD 640,000.
-- **Triplex Total**: AUD 640,000 × 3 = AUD 1,920,000.
-- **Cost per Investor**: AUD 1,920,000 ÷ 3 = **AUD 640,000 each**.
+| Component           | Cost (per Unit)                                  |
+|---------------------|--------------------------------------------------|
+| Baseline            | AUD 600,000                                      |
+| Timber Flooring     | AUD 10,000                                       |
+| Large Kitchen       | AUD 15,000                                       |
+| Double Garage       | AUD 15,000                                       |
+| Total per Unit      | AUD 640,000                                      |
+
+| Metric              | Value                                            |
+|---------------------|--------------------------------------------------|
+| Triplex Total       | AUD 640,000 × 3 = AUD 1,920,000                  |
+| Cost per Investor   | AUD 1,920,000 ÷ 3 = AUD 640,000                  |
 
 #### High-End Upgrade (5-Bed, Timber, Large Kitchen, 2.5 Baths, Double Garage, Patio)
-- **Per Unit**: AUD 600,000 + 35,000 (bed) + 10,000 (timber) + 15,000 (kitchen) + 7,000 (bath) + 15,000 (garage) + 10,000 (patio) = AUD 692,000.
-- **Triplex Total**: AUD 692,000 × 3 = AUD 2,076,000.
-- **Cost per Investor**: AUD 2,076,000 ÷ 3 = **AUD 692,000 each**.
+| Component           | Cost (per Unit)                                  |
+|---------------------|--------------------------------------------------|
+| Baseline            | AUD 600,000                                      |
+| Extra Bedroom       | AUD 35,000                                       |
+| Timber Flooring     | AUD 10,000                                       |
+| Large Kitchen       | AUD 15,000                                       |
+| Extra 0.5 Bath      | AUD 7,000                                        |
+| Double Garage       | AUD 15,000                                       |
+| Patio               | AUD 10,000                                       |
+| Total per Unit      | AUD 692,000                                      |
+
+| Metric              | Value                                            |
+|---------------------|--------------------------------------------------|
+| Triplex Total       | AUD 692,000 × 3 = AUD 2,076,000                  |
+| Cost per Investor   | AUD 2,076,000 ÷ 3 = AUD 692,000                  |
 
 ## Action Plan
-1. **Investor Meeting**: Confirm baseline (AUD 600,000/unit), discuss upgrades.
-2. **Architect**: Draft 4-bed, 200 sqm single-storey plans (2-3 months, AUD 30,000 fee).
-3. **Builder Quotes**: Verify AUD 600,000/unit, quote changes (1-2 months).
-4. **Council Approval**: Submit DA (3-6 months, e.g., Ku-ring-gai Council).
-5. **Construction**: 6-9 months, split costs equally (or adjust if one retains a unit).
+| Step                | Description                                      | Timeline         |
+|---------------------|--------------------------------------------------|------------------|
+| Investor Meeting    | Confirm baseline, discuss upgrades               | 1 week           |
+| Architect           | Draft 4-bed, 200 sqm plans                       | 2-3 months       |
+| Builder Quotes      | Verify AUD 600,000/unit, quote changes           | 1-2 months       |
+| Council Approval    | Submit DA (e.g., Ku-ring-gai Council)            | 3-6 months       |
+| Construction        | Build triplex, split costs equally               | 6-9 months       |
+
+**Fees**: Architect ~AUD 30,000 (triplex total).
 
 ## Considerations for Investors
-- **Baseline Value**: AUD 600,000/unit offers mid-range appeal, suitable for resale or retention.
-- **Upgrades**: Timber, larger kitchens, and garages boost value (e.g., +AUD 40,000/unit for mid-range) but check ROI vs. market demand.
-- **Flexibility**: If one investor keeps a unit, add upgrades (e.g., 5-bed) and adjust their share (e.g., AUD 652,000 vs. AUD 600,000 for others).
-- **Contingency**: Add 10% (AUD 180,000 total) for overruns.
+| Aspect              | Notes                                            |
+|---------------------|--------------------------------------------------|
+| Baseline Value      | AUD 600,000/unit offers mid-range appeal         |
+| Upgrades            | Timber, kitchens, garages add value (+AUD 40,000/unit mid-range) |
+| Flexibility         | Customize retained unit, adjust shares (e.g., AUD 652,000 vs. AUD 600,000) |
+| Contingency         | Add 10% (AUD 180,000 total) for overruns         |
 
-This plan aligns the AUD 600,000/unit baseline with practical inclusions and offers clear upgrade costs, ensuring investor transparency.
+This plan uses tables for easy Google Sheets integration, aligning with the AUD 600,000/unit baseline and detailing upgrade costs.
