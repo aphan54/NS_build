@@ -310,4 +310,11 @@ Below are specific data samples from St Leonards, Artarmon, Lane Cove, Lindfield
 
 ---
 
+## Additional Detailed Analyses
+For deeper insights, refer to the following separate documents:  
+- [Analysis of Suburb Estimate](./analysis-of-suburb-estimate.md) - Detailed breakdown of land cost estimates across St Leonards, Artarmon, Lane Cove, Lindfield, Roseville, and Roseville Chase.  
+- [Analysis of Triplex Build](./analysis-of-triplex-build.md) - In-depth evaluation of triplex construction costs, design options, and ROI potential specific to 32 Ormonde Road.
+
+---
+
 Begin by targeting a 900 m²+ block (e.g., 32 Ormonde Road’s 1,100 m² lot) in St Leonards, Artarmon, Lane Cove, Lindfield, Roseville, or Roseville Chase. Verify zoning and Metro proximity with the council, and evaluate site constraints for feasibility. The updated land cost ($1.99M avg for 900 m²; $2.145M for 32 Ormonde Road with greed premium) reflects insurance rebuild valuation—let me know if further adjustments are needed!
